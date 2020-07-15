@@ -1,0 +1,1 @@
+{"version":3,"sources":["no-import.ts"],"names":[],"mappings":";AAAA,EAAE,WACD,QAAQ,IAAI","file":"no-import.04b94498.js","sourceRoot":"..\\src","sourcesContent":["$(() => {\n\tconsole.log(\"Hello!\");\n});\n"]}
